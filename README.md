@@ -5,5 +5,7 @@
 
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Исследование надёжности заёмщиков](https://github.com/maponomareva/portfolio/tree/main/02_banking_analytics) | Выявление факторов, влияющих на факт погашения кредита в срок. Результаты исследования будут использованы для построения модели кредитного скоринга — специальной системы, которая оценивает способность потенциального заёмщика вернуть кредит банку.| *pandas, pymystem3* |
-
+| [Исследование надёжности заёмщиков](https://github.com/maponomareva/portfolio/tree/main/02_banking_analytics) | Выявление факторов, влияющих на факт погашения кредита в срок | *pandas, pymystem3* |
+| [Исследование объявлений о продаже квартир](https://github.com/maponomareva/portfolio/tree/main/03_real_estate_analytics) | Разработка критериев для автоматического определения рыночной стоимости объектов недвижимости | *pandas, matplotlib* |
+| [Исследование 4](https://github.com/maponomareva/portfolio/tree/main/02_banking_analytics) | Выявление факторов, влияющих на факт погашения кредита в срок | *pandas, pymystem3* 
+| [Исследование 5](https://github.com/maponomareva/portfolio/tree/main/02_banking_analytics) | Выявление факторов, влияющих на факт погашения кредита в срок | *pandas, pymystem3* |
