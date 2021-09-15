@@ -7,5 +7,6 @@
 | :---------------------- | :---------------------- | :---------------------- |
 | [Исследование надёжности заёмщиков](https://github.com/maponomareva/portfolio/tree/main/02_banking_analytics) | Выявление факторов, влияющих на факт погашения кредита в срок | *pandas, pymystem3* |
 | [Исследование объявлений о продаже квартир](https://github.com/maponomareva/portfolio/tree/main/03_real_estate_analytics) | Разработка критериев для автоматического определения рыночной стоимости объектов недвижимости | *pandas, matplotlib* |
-| [Исследование 4](https://github.com/maponomareva/portfolio/tree/main/02_banking_analytics) | Выявление факторов, влияющих на факт погашения кредита в срок | *pandas, pymystem3* 
-| [Исследование 5](https://github.com/maponomareva/portfolio/tree/main/02_banking_analytics) | Выявление факторов, влияющих на факт погашения кредита в срок | *pandas, pymystem3* |
+| [Определение перспективного тарифа для телеком компании](https://github.com/maponomareva/portfolio/tree/main/04_telecom_analytics) | Определение более прибыльного тарифного плана компании для целей корректировки рекламного бюджета | *pandas, numpy, math, matplotlib, seaborn, scipy* |
+| [Исследование 6](https://github.com/maponomareva/portfolio/tree/main/02_banking_analytics) | Выявление факторов, влияющих на факт погашения кредита в срок | *pandas, * |
+| [Исследование 7](https://github.com/maponomareva/portfolio/tree/main/02_banking_analytics) | Выявление факторов, влияющих на факт погашения кредита в срок | *pandas, * |
