@@ -12,4 +12,5 @@
 | [Аналитика в авиакомпании](https://github.com/maponomareva/portfolio/tree/main/07_airline_analytics) | Анализ спроса на рынке внутренних пассажирских авиаперевозок на основе данных о рейсах российской авиакомпании | *pandas, requests, BeautifulSoup, matplotlib, seaborn + SQL* |
 | [Маркетинговая аналитика в Яндекс.Афише](https://github.com/maponomareva/portfolio/tree/main/08_marketing_analytics) | Анализ пользовательского поведения на сайте Яндекс.Афиши и подсчёт ключевых бизнес-показателей (Retention Rate, ASL, LTV, CAC, ROMI и др.) | *pandas, numpy, matplotlib, seaborn* |
 | [A/B-тестирование в интернет-магазине](https://github.com/maponomareva/portfolio/tree/main/09_ab_testing) | Приоритизация гипотез, анализ результатов проведённого A/B-теста| *pandas, numpy, scipy.stats, matplotlib* |
+| [Рынок заведений общественного питания Москвы](https://github.com/maponomareva/portfolio/tree/main/10_catering_analytics) | Анализ заведений общественного питания Москвы для оценки перспективности открытия небольшого кафе с официантами-роботами | *pandas, numpy, re, requests, io, matplotlib, seaborn, plotly* |
 | WIP|   |  |
